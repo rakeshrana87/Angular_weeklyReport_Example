@@ -1,0 +1,12 @@
+/* Add application styles & imports to this file! */
+.outer-outlet {
+  padding: 8px;
+  border: 1px solid red;
+  height: 170px;
+  width: 360px;
+}
+
+.inner-outlet {
+  padding: 8px;
+  border: 1px solid blue;
+}
